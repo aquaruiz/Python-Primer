@@ -23,6 +23,9 @@ node_modules/
 
 ## Directory-based project format:
 .idea/
+src/
+python-primer/
+
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
